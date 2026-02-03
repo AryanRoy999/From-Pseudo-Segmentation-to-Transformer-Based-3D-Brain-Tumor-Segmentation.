@@ -1,6 +1,6 @@
 # From-Pseudo-Segmentation-to-Transformer-Based-3D-Brain-Tumor-Segmentation.
 
-This repository will contain code files about the exploratory study performed to bridge pseudo segmentation with transformer based 3D segmentation. The information regarding running the code files can be found in README file available in this repository. Drive link to access the model which was applied on BraTS data is present in this readme section along with both the datasets(2D and 3D) which were used for this exploratory work. A research paper regarding the same has been submitted as e-print in the arXiv. The study focuses on methodological validation, loss design, and optimization strategies for medical image segmentation under limited annotation availability.
+This repository will contain code files about the exploratory study performed to bridge pseudo segmentation with transformer based 3D segmentation. The information regarding running the code files can be found in README file available in this repository. Drive link to access the model which was applied on BraTS data is present in this readme section along with both the datasets(2D and 3D) which were used for this exploratory work. A research paper regarding the same has been submitted as e-print in the TechrXiv. The study focuses on methodological validation, loss design, and optimization strategies for medical image segmentation under limited annotation availability.
 
 # Dataset and Model link 
 
